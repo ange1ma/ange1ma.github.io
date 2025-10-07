@@ -112,7 +112,7 @@ h1, h2, h3 {
     justify-content: center;
     align-items: center;
     background-color: var(--brown);
-    color: #fffaf4;
+    color: var(--cream);
     position: absolute;
     bottom: 0;
     width: 100%;
